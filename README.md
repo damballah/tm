@@ -26,4 +26,6 @@ I make a ExeFile in a ZipFile if you doesn't want to install python 3 or make co
 
 Enjoy ;)
 
+Find more information about python-tradingview-ta --> https://python-tradingview-ta.readthedocs.io/en/latest/overview.html
+
 "Vévé ci la nâp tracé pou damballah"
